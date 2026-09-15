@@ -24,3 +24,4 @@ A simple hospital appointment management web application.
 
 This project is created to practice DevOps tools and CI/CD deployment.
 Version 1.1 - Git Stash Practice
+Git Revert Practice
